@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">13_5_Database</string>
+    <string name="exit">Выход</string>
+    <string name="toolbarTitle">База данных</string>
+    <string name="startBTN_text">Начать</string>
+    <string name="nameET_hint">Имя</string>
+    <string name="phoneET_hint">Телефон</string>
+    <string name="roleTV_text">Должность</string>
+    <string name="addBTN_text">Добавить</string>
+    <string name="readBTN_text">Прочитать</string>
+    <string name="delBTN_text">Удалить</string>
+    <string name="outputTV_hint">Вывод</string>
+</resources>
